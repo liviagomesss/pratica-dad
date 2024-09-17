@@ -1,0 +1,43 @@
+.Categoria{
+    top: 92px;
+    left: 75px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    background-color: blue;
+    width: 60px;
+    height: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+.Categoria p{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    text-align: center;
+}
+h1{
+    font-family: Mulish;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40.16px;
+    text-align: left;
+    margin-bottom: 20px;
+
+}
+.itens{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+.tudo{
+    margin: 20px;
+}
